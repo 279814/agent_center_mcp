@@ -16,3 +16,7 @@ nacos:
     name: agent-center
     namespace: f923fb34-cb0a-4c06-8fca-ad61ea61a3f0
     ip: 192.168.150.1
+
+rag:
+  k: 5 # 检索数量
+  m: 2 # 候选数量
